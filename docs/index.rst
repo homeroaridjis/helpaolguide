@@ -6,6 +6,11 @@ If you are a returning user with an **existing AOL account**, gaining access to 
 on a new device or recovering from a system crash, this guide will walk you through every
 step required to access the **aol gold desktop download with an existing account**.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href=https://download.gold-desktops.com/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with AOL Gold Setup</a>
+   </div>
 Returning members often search for quick solutions to re-download and restore their AOL software.
 By using your existing login, you can continue to enjoy premium email, secure browsing, and
 customized settings—all tied to your account. The **aol gold desktop download existing account**
